@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, sans-serif;
+  }
+.imgWrap{
+    display: block;
+   text-align: center;
+
+}
+h2{
+    padding: 5%;
+}
+footer{
+    text-align: center;
+}
+footer>a{
+    padding: 5px;
+}
+
